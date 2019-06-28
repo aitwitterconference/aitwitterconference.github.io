@@ -2,7 +2,7 @@
 layout: page
 title: AI Twitter Conference (AITC)
 ---
-Welcome to AITC. Please stay tuned for further announcement on conference date and times. For all enquiries, please email the lead organiser Alexander Laurence (alexander.adamlaurence@gmail.com).
+Welcome to AITC. Please stay tuned for further announcement on conference date and times. For all enquiries, please email the lead organiser [Alexander Laurence](alexander.adamlaurence@gmail.com).
 
 ## What is AITC?
 
@@ -12,10 +12,10 @@ The virtual conference will take place entirely on Twitter. During the conferenc
 
 ## Important Dates
 
-TBC - Abstract Submission Opens
-TBC - Abstract Submission Closes
-TBC - Presenter Slots Are Published
-TBC - AITC19 Opens
+* TBC - Abstract Submission Opens
+* TBC - Abstract Submission Closes
+* TBC - Presenter Slots Are Published
+* TBC - AITC19 Opens
 
 ### Follow @realAITC
 
@@ -23,7 +23,7 @@ TBC.
 
 ## Organisers
 
-TBC.
+Alexander Laurence, University of Oxford.
 
 ## Sponsors
 
