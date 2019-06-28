@@ -1,21 +1,30 @@
 ---
 layout: page
-title: AI Twitter Conference (AITC) 2019
+title: AI Twitter Conference (AITC)
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis [nostrud exercitation](http://alexcarpenter.me) ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to AITC. Please stay tuned for further announcement on conference date and times. For all enquiries, please email the lead organiser Alexander Laurence (alexander.adamlaurence@gmail.com).
 
-## What is AI Twitter Conference?
+## What is AITC?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Artificial Intelligence Twitter Conference (AITC) is a free and open online gathering of minds for those who wish to discuss emerging AI research without spending significant conference fees, completing visa applications, and impacting the environment with air travel.
 
-{% highlight scss %}
-  .header {
-    font-size: 100px;
-  }
-{% endhighlight %}
+The virtual conference will take place entirely on Twitter. During the conference, presenters are invited to showcase their work to the audience inside threaded tweets by using the #AITC hashtag within their given slot. Audience members are also encouraged to join in the discussion using the same hashtag. The conference will last a total of 20 hours to ensure that audience and presenters across all timezones are able to participate in the conference.
+
+## Important Dates
+
+TBC - Abstract Submission Opens
+TBC - Abstract Submission Closes
+TBC - Presenter Slots Are Published
+TBC - AITC19 Opens
 
 ### Follow @realAITC
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+TBC.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Organisers
+
+TBC.
+
+## Sponsors
+
+TBC.
