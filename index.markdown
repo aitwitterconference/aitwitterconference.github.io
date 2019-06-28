@@ -17,9 +17,13 @@ The virtual conference will take place entirely on Twitter. During the event, pr
 * TBC - Presenter Slots Are Published
 * TBC - AITC19 Opens
 
-### Follow @realAITC
+### Follow @AITC2019
 
-TBC.
+This is our flagship Twitter account, so please follow us there for all the latest news.
+
+<a class="twitter-follow-button"
+  href="https://twitter.com/AITC2019">
+Follow @AITC2019</a>
 
 ## Organisers
 
