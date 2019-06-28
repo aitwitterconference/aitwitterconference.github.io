@@ -53,7 +53,7 @@ TBC.
     <div class="content__gdpr">
         <label>Marketing Permissions</label>
         <p>Please select all the ways you would like to hear from AITC:</p>
-	    <p> </p>
+	    <p>.</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
 		<label class="checkbox subfield" for="gdpr_15269"><input type="checkbox" id="gdpr_15269" name="gdpr[15269]" value="Y" class="av-checkbox "><span>Email</span> </label><label class="checkbox subfield" for="gdpr_15273"><input type="checkbox" id="gdpr_15273" name="gdpr[15273]" value="Y" class="av-checkbox "><span>Direct Mail</span> </label><label class="checkbox subfield" for="gdpr_15277"><input type="checkbox" id="gdpr_15277" name="gdpr[15277]" value="Y" class="av-checkbox "><span>Customized Online Advertising</span> </label>
         </fieldset>
