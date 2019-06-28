@@ -9,10 +9,10 @@ The time in the UK (BST) is currently equal to UTC+1, the Central European Summe
 
 | 04:45 UTC | Submission Title    |
 |-----------|---------------------|
-| 5:45 AM   | Submission Authors  |
-| London    | Submission Abstract |
+|           | Submission Authors  |
+|           | Submission Abstract |
 
 | 05:00 UTC | Submission Title    |
 |-----------|---------------------|
-| 6:00 AM   | Submission Authors  |
-| London    | Submission Abstract |
+|           | Submission Authors  |
+|           | Submission Abstract |
