@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AI Twitter Conference (AITC)
+title: AI Twitter Conference 2019
 ---
-Welcome to AITC. Please stay tuned for further announcement on conference date and times. For all enquiries, please email the lead organiser [Alexander Laurence](alexander.adamlaurence@gmail.com).
+Welcome to AITC. Please stay tuned for further announcements on conference date and times. For all enquiries, please email the lead organiser [Alexander Laurence](mailto:alexander.adamlaurence@gmail.com).
 
 ## What is AITC?
 
