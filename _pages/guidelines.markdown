@@ -4,7 +4,7 @@ title: Guidelines
 permalink: /guidelines/
 ---
 
-# Community guidelines
+# Community Guidelines
 We are confident that you will together build a supportive and collaborative atmosphere during the AI Twitter Conference (AITC). The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:
 
 * **Be respectful to others**. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behavior.
