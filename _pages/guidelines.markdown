@@ -18,7 +18,7 @@ As an overriding general rule, please be intentional in your actions and humble 
 # When does the Code of Conduct apply?
 This Code of Conduct governs participation for all interactions related to the data study group week. It applies to all participants at all times, including during after-hours working and social events.
 
-The internet is real life! This Code of Conduct applies in all digital spaces connected to the AI Twitter Conference (e.g., the slack workspace, other group chat channels, mailing lists and collaborative documents) as well as physical ones.
+The internet is real life! This Code of Conduct applies in all digital spaces connected to the AI Twitter Conference (e.g., the slack workspace, other group chat channels, mailing lists and collaborative documents) as well as physical locations.
 
 Participants who have violated this Code may be excluded from this and future twitter conferences, and may be asked not to attend after-hour events.
 
